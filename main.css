@@ -1,0 +1,15 @@
+body{
+    background-image: url(joao-silveira-ZsgUsl8GATg-unsplash.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+
+
+.bg-orange {
+    background-color: orange;
+}
+
+.align-left{
+    padding-left: 40%;
+}
